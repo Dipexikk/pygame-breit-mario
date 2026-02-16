@@ -12,4 +12,4 @@ class Platform(pygame.sprite.Sprite):
         self.y = y
         self.width = width
         self.height = height
-        self.mask = pygame.mask.from_surface(self.image)
+
